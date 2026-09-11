@@ -4,3 +4,5 @@ Henrique
 Lais
 Danilo
 Rose
+Lucas
+Jones
